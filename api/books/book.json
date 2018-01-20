@@ -1,0 +1,51 @@
+[
+  {
+    "single_book_id": "10001",
+    "book_name": "The Adventures of Sherlock Holmes",
+    "book_author": "Arthur Conan Doyle",
+    "book_isbn": "XXX-XX-DUMY-000-1",
+    "book_pages": "",
+    "book_price": "Free",
+    "book_edition": "Second",
+    "book_slug": "",
+    "book_description": "The Adventures of Sherlock Holmes is a collection of twelve stories by Sir Arthur Conan Doyle, featuring his famous detective and illustrated by Sidney Paget. These are the first of the Sherlock Holmes short stories, originally published as single stories in the Strand Magazine from July 1891 to June 1892. The book was published in England on October 14, 1892 by George Newnes Ltd and in a US Edition on October 15 by Harper. The initial combined print run was 14,500 copies.",
+    "book_tags": "Fiction, Mystery & Detective, Short Stories",
+    "book_category": "Fiction",
+    "publisher_name": "Feedbooks",
+    "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/adventures-of-sherlock-holmes.jpg",
+    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/Arthur%2BConan%2BDoyle%2B-%2BThe%2BAdventures%2Bof%2BSherlock%2BHolmes.pdf"
+  },
+  {
+    "single_book_id": "10002",
+    "book_name": "Pride and Prejudice",
+    "book_author": "Jane Austen",
+    "book_isbn": "XXX-XX-DUMY-000-2",
+    "book_pages": "",
+    "book_price": "Free",
+    "book_edition": "Second",
+    "book_slug": "",
+    "book_description": "Pride And Prejudice, the story of Mrs. Bennet's attempts to marry off her five daughters is one of the best-loved and most enduring classics in English literature. Excitement fizzes through the Bennet household at Longbourn in Hertfordshire when young, eligible Mr. Charles Bingley rents the fine house nearby. He may have sisters, but he also has male friends, and one of these—the haughty, and even wealthier, Mr. Fitzwilliam Darcy—irks the vivacious Elizabeth Bennet, the second of the Bennet girls. She annoys him. Which is how we know they must one day marry. The romantic clash between the opinionated Elizabeth and Darcy is a splendid rendition of civilized sparring. As the characters dance a delicate quadrille of flirtation and intrigue, Jane Austen's radiantly caustic wit and keen observation sparkle.",
+    "book_tags": "Fiction, Romance",
+    "book_category": "Fiction",
+    "publisher_name": "Feedbooks",
+    "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/pride-and-prejudice.jpg",
+    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/Jane%2BAusten%2B-%2BPride%2Band%2BPrejudice.pdf"
+  },
+  {
+    "single_book_id": "10003",
+    "book_name": "Romeo and Juliet",
+    "book_author": "William Shakespeare",
+    "book_isbn": "XXX-XX-DUMY-000-3",
+    "book_pages": "",
+    "book_price": "Free",
+    "book_edition": "Fourth",
+    "book_slug": "",
+    "book_description": "Romeo and Juliet is a tragic play written early in the career of William Shakespeare about two teenage *star-cross'd lovers* whose untimely deaths ultimately unite their feuding households. It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal 'young lovers'.",
+    "book_tags": "Fiction, Drama, Romance",
+    "book_category": "Romance",
+    "publisher_name": "Feedbooks",
+    "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/romeo-and-juliet.jpg",
+    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/William%2BShakespeare%2B-%2BRomeo%2Band%2BJuliet.pdf"
+  },
+
+]
