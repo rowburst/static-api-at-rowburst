@@ -13,7 +13,7 @@
     "book_category": "Fiction",
     "publisher_name": "Feedbooks",
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/adventures-of-sherlock-holmes.jpg",
-    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/Arthur%2BConan%2BDoyle%2B-%2BThe%2BAdventures%2Bof%2BSherlock%2BHolmes.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/Arthur%2BConan%2BDoyle%2B-%2BThe%2BAdventures%2Bof%2BSherlock%2BHolmes.pdf"
   },
   {
     "single_book_id": "10002",
