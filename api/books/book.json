@@ -29,7 +29,7 @@
     "book_category": "Fiction",
     "publisher_name": "Feedbooks",
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/pride-and-prejudice.jpg",
-    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/Jane%2BAusten%2B-%2BPride%2Band%2BPrejudice.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/Jane%2BAusten%2B-%2BPride%2Band%2BPrejudice.pdf"
   },
   {
     "single_book_id": "10003",
@@ -45,7 +45,7 @@
     "book_category": "Romance",
     "publisher_name": "Feedbooks",
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/romeo-and-juliet.jpg",
-    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/William%2BShakespeare%2B-%2BRomeo%2Band%2BJuliet.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/William%2BShakespeare%2B-%2BRomeo%2Band%2BJuliet.pdf"
   },
   {
     "single_book_id": "10004",
@@ -61,7 +61,7 @@
     "book_category": "Fantasy",
     "publisher_name": "Feedbooks",
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/alice-adventures-in-wonderland.jpg",
-    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/Lewis%2BCarroll%2B-%2BAlices%2BAdventures%2Bin%2BWonderland.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/Lewis%2BCarroll%2B-%2BAlices%2BAdventures%2Bin%2BWonderland.pdf"
   },
   {
     "single_book_id": "10005",
@@ -77,7 +77,7 @@
     "book_category": "Romance",
     "publisher_name": "Feedbooks",
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/the-great-gatsby.jpg",
-    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/Francis%2BScott%2BFitzgerald%2B-%2BThe%2BGreat%2BGatsby.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/Francis%2BScott%2BFitzgerald%2B-%2BThe%2BGreat%2BGatsby.pdf"
   },
   {
     "single_book_id": "10006",
@@ -93,7 +93,7 @@
     "book_category": "Philosophy",
     "publisher_name": "Feedbooks",
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/the-art-of-war-sun-tzu.jpg",
-    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/Sun%2BTzu%2B-%2BThe%2BArt%2Bof%2BWar.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/Sun%2BTzu%2B-%2BThe%2BArt%2Bof%2BWar.pdf"
   },
   {
     "single_book_id": "10007",
@@ -109,7 +109,7 @@
     "book_category": "Drama",
     "publisher_name": "Feedbooks",
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/hamlet.jpg",
-    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/William%2BShakespeare%2B-%2BHamlet.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/William%2BShakespeare%2B-%2BHamlet.pdf"
   },
   {
     "single_book_id": "10008",
@@ -125,7 +125,7 @@
     "book_category": "Science Fiction",
     "publisher_name": "Feedbooks",
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/tales-of-space-and-tiime.jpg",
-    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/H.%2BG.%2BWells%2B-%2BTales%2Bof%2BSpace%2Band%2BTime.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/H.%2BG.%2BWells%2B-%2BTales%2Bof%2BSpace%2Band%2BTime.pdf"
   },
   {
     "single_book_id": "10009",
@@ -141,7 +141,7 @@
     "book_category": "Historical",
     "publisher_name": "Feedbooks",
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/war-and-peace.jpg",
-    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/Lev%2BNikolayevich%2BTolstoy%2B-%2BWar%2Band%2BPeace.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/Lev%2BNikolayevich%2BTolstoy%2B-%2BWar%2Band%2BPeace.pdf"
   },
   {
     "single_book_id": "10010",
@@ -157,7 +157,7 @@
     "book_category": "Fantasy",
     "publisher_name": "Feedbooks",
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/peter-pan-j-m-barrie.jpg",
-    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/J.M.%2BBarrie%2B-%2BPeter%2BPan%2B%2528Peter%2Band%2BWendy.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/J.M.%2BBarrie%2B-%2BPeter%2BPan%2B%2528Peter%2Band%2BWendy.pdf"
   },
   {
     "single_book_id": "10011",
@@ -173,7 +173,7 @@
     "book_category": "Thrillers",
     "publisher_name": "Feedbooks",
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/the-most-dangerous-game.jpg",
-    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/Richard%2BConnell%2B-%2BThe%2BMost%2BDangerous%2BGame.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/Richard%2BConnell%2B-%2BThe%2BMost%2BDangerous%2BGame.pdf"
   },
   {
     "single_book_id": "10012",
@@ -189,6 +189,6 @@
     "book_category": "Fiction",
     "publisher_name": "Feedbooks",
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/stories-of-don-quixote.jpg",
-    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/baldwin_quixote_preview.pdf"
+    "book_link": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/pdfs/baldwin_quixote_preview.pdf"
   }
 ]
