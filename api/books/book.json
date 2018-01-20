@@ -47,5 +47,21 @@
     "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/romeo-and-juliet.jpg",
     "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/William%2BShakespeare%2B-%2BRomeo%2Band%2BJuliet.pdf"
   },
+  {
+    "single_book_id": "10004",
+    "book_name": "Romeo and Juliet",
+    "book_author": "William Shakespeare",
+    "book_isbn": "XXX-XX-DUMY-000-3",
+    "book_pages": "",
+    "book_price": "Free",
+    "book_edition": "Fourth",
+    "book_slug": "",
+    "book_description": "Romeo and Juliet is a tragic play written early in the career of William Shakespeare about two teenage *star-cross'd lovers* whose untimely deaths ultimately unite their feuding households. It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal 'young lovers'.",
+    "book_tags": "Fiction, Drama, Romance",
+    "book_category": "Romance",
+    "publisher_name": "Feedbooks",
+    "book_image": "https://raw.githubusercontent.com/rowburst/static-api-at-rowburst/master/api/assets/images/romeo-and-juliet.jpg",
+    "book_link": "https://github.com/rowburst/static-api-at-rowburst/raw/master/api/assets/pdfs/William%2BShakespeare%2B-%2BRomeo%2Band%2BJuliet.pdf"
+  },
 
 ]
